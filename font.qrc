@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>font/MF-ManYu-Noncommercial-Regular.ttf</file>
+        <file>font/MFKeKe_Noncommercial-Regular.ttf</file>
+        <file>font/MFMiaoMiao_Noncommercial-Regular.ttf</file>
+        <file>font/MFQingShu_Noncommercial-Regular.ttf</file>
+        <file>font/MFQingShuF_Noncommercial-Regular.ttf</file>
+        <file>font/MFShangHei_Noncommercial-Regular.ttf</file>
+        <file>font/MFYueYuan_Noncommercial-Regular.ttf</file>
+        <file>font/NotoSansCJKsc-Light.otf</file>
+    </qresource>
+</RCC>

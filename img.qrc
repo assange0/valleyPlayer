@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/bg-1.png</file>
+        <file>img/heart.png</file>
+        <file>img/love.png</file>
+        <file>img/next.png</file>
+        <file>img/play.png</file>
+        <file>img/previous.png</file>
+        <file>img/shuffle.png</file>
+        <file>img/loop.png</file>
+        <file>img/bg-2.jpg</file>
+        <file>img/bg-3.jpg</file>
+        <file>img/pause.png</file>
+        <file>img/list.png</file>
+        <file>img/repeat.png</file>
+        <file>img/folderAdd.png</file>
+        <file>img/minus.png</file>
+        <file>img/trash.png</file>
+        <file>img/volumeLow.png</file>
+        <file>img/volumeMute.png</file>
+        <file>img/volumHigh.png</file>
+        <file>img/window.png</file>
+        <file>img/close.png</file>
+        <file>img/quitIcon.png</file>
+        <file>img/closeg.png</file>
+        <file>img/message.png</file>
+    </qresource>
+</RCC>
