@@ -5,6 +5,8 @@ import QtGraphicalEffects 1.0
 import QtMultimedia 5.8
 import Qt.labs.platform 1.0
 
+import "./common" as Common
+
 ApplicationWindow {
     id: mainWindow
     visible: true
@@ -67,7 +69,7 @@ ApplicationWindow {
                         anchors.fill: parent
                         opacity: 0
                     }
-                    TopBar {
+                    Common.TopBar {
                         id: topBar
                     }
                 }
@@ -94,7 +96,7 @@ ApplicationWindow {
         }
     }
 
-    ControlBar {
+    Common.ControlBar {
         id: controlBar
     }
 

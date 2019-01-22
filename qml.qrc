@@ -2,10 +2,10 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
-        <file>TopBar.qml</file>
-        <file>ControlBar.qml</file>
-        <file>TimeBar.qml</file>
         <file>PlayListView.qml</file>
-        <file>BorderItems.qml</file>
+        <file>common/BorderItems.qml</file>
+        <file>common/ControlBar.qml</file>
+        <file>common/TimeBar.qml</file>
+        <file>common/TopBar.qml</file>
     </qresource>
 </RCC>
